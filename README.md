@@ -1,6 +1,8 @@
 # Objective
 
-Applying Plugins
+Building Java App using gradle.
+
+## Applying Plugins
 
 ![plugins](plugins.png)
 
